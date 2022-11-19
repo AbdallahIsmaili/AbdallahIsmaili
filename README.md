@@ -1,10 +1,6 @@
 # Hi there, I'm Abdallah Ismaili
 <br>
 <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api?username=AbdallahIsmaili&show_icons=true&theme=radical" />
-
-<br><br>
-# I love using:
-<br>
 <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahIsmaili&layout=compact" />
 
 <img align="left" width="25%" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
