@@ -1,8 +1,8 @@
 # Hi there, I'm Abdallah Ismaili
 <br>
 <img align="left" width="98%" src="https://github-readme-stats.vercel.app/api?username=AbdallahIsmaili&show_icons=true&theme=radical" />
-<br>
 
+<br><br>
 # I love using:
 <br>
 <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahIsmaili&layout=compact" />
