@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [aismaili.pages.dev](aismaili.pages.dev)
 
-- 📫 How to reach me **aismaili691@gmail.com**
+- 📫 How to reach me **ais.devlop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
